@@ -1,2 +1,2 @@
-# php-missing-constants
+# php-constants
 Some common php constants
