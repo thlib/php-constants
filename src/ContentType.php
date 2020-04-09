@@ -1,6 +1,6 @@
 <?php
 
-namespace THLib\Constants;
+namespace TH\Constants;
 
 class ContentType 
 {
