@@ -1,5 +1,5 @@
 {
-    "name": "thlib/php-constants",
+    "name": "thlib/php-http-constants",
     "version": "1.0.0",
     "description": "http content type constants.",
     "license": "Unlicense",

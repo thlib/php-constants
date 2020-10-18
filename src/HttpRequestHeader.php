@@ -1,6 +1,6 @@
 <?php
 
-namespace TH\Constants;
+namespace TH\HttpConstants;
 
 class HttpRequestHeader 
 {
