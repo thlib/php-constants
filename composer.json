@@ -1,6 +1,6 @@
 {
     "name": "thlib/php-http-constants",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "http content type constants.",
     "license": "Unlicense",
     "authors": [
