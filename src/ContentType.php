@@ -2,7 +2,7 @@
 
 namespace TH\HttpConstants;
 
-class ContentType 
+interface ContentType 
 {
     const TEXT_PLAIN = 'text/plain;charset=utf-8';
     const TEXT_HTML = 'text/html;charset=utf-8';

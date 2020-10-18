@@ -2,7 +2,7 @@
 
 namespace TH\HttpConstants;
 
-class HttpRequestHeader 
+interface HttpRequestHeader 
 {
     // Standard request header fields
     const A_IM = 'A-IM';
